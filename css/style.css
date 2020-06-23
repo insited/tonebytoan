@@ -348,21 +348,21 @@ z-index: 1;
 
 @media only screen and (max-width: 1200px) {
   h1.home-page-title {
-    font-size: 105px;
+    font-size: 60px;
 	margin: 10px auto 8px auto;
   }
 }
 
 @media only screen and (max-width: 880px) {
   h1.home-page-title {
-    font-size: 85px;
+    font-size: 60px;
 	margin: 9px auto 3px auto;
   }
 }
 
 @media only screen and (max-width: 640px) {
   h1.home-page-title {
-    font-size: 65px;
+    font-size: 60px;
 	margin: 10px auto 5px auto;
   }
 }
